@@ -1,0 +1,11 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+#hero-section{
+  background-image: url('../images/banner/banner1.png');
+  transition: background-image 0.4s ease;
+}
+
+
