@@ -1,0 +1,4 @@
+ function ajouterAuCarde() {
+    alert('hi')
+    
+ }
