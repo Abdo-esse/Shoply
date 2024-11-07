@@ -1,23 +1,26 @@
 [
   {
     "id": 1,
+    "catégorie":"Électroniques",
     "title": "Vintage Japanese Painting",
     "price": 49.99,
     "description": "A beautiful, hand-painted vintage Japanese artwork depicting traditional scenery.",
-    "image": "../assets/images/category/fashion/nbg/sunglass3.webp"
+    "image": "../assets/images/category/electronic/nbg/casque1.jpg"
   },
   {
     "id": 2,
+    "catégorie":"Électroniques",
     "title": "Handmade Ceramic Vase",
     "price": 29.99,
     "description": "Elegant ceramic vase handcrafted by Japanese artisans, perfect for minimalistic decor.",
-    "image": "../assets/images/category/fashion/nbg/sunglass3.webp"
+    "image": "../assets/images/category/electronic/nbg/casque3.jpg"
   },
   {
     "id": 3,
+    "catégorie":"Électroniques",
     "title": "Japanese Calligraphy Brush Set",
     "price": 19.99,
     "description": "Set of traditional calligraphy brushes, ideal for artists and calligraphy enthusiasts.",
-    "image": "../assets/images/category/fashion/nbg/sunglass3.webp"
+    "image": "../assets/images/category/electronic/nbg/casque4.jpg"
   }
 ]
