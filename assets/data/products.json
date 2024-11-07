@@ -230,6 +230,14 @@
     "price": 29.99,
     "description": "Les Nike Air Force 1 sont des baskets emblématiques, lancées pour la première fois en 1982, devenues un classique dans le monde de la mode streetwear. Elles sont connues pour leur design simple mais élégant.",
     "image": "../assets/images/category/fashion/Mode/Nike Air Force 1.jpg"
+  },
+  {
+    "id": 30,
+    "catégorie":"Mode",
+    "title": "Chanel No. 5",
+    "price": 29.99,
+    "description": " Chanel No. 5 est l'un des parfums les plus iconiques du monde. Créé en 1921 par le parfumeur Ernest Beaux, il est connu pour son mélange complexe de notes florales, boisées et musquées. Ce parfum intemporel.",
+    "image": "../assets/images/category/fashion/Mode/Chanel No. 5 Eau de Parfum.jpg"
   }
   
 ]
