@@ -5,7 +5,7 @@
     "title": "Vintage Japanese Painting",
     "price": 49.99,
     "description": "A beautiful, hand-painted vintage Japanese artwork depicting traditional scenery.",
-    "image": "../assets/images/category/electronic/nbg/casque3.jpg"
+    "image": "../assets/images/category/electronic/nbg/casque1.jpg"
   },
   {
     "id": 2,
@@ -24,7 +24,7 @@
     "image": "../assets/images/category/electronic/nbg/casque4.jpg"
   },
   {
-    "id": 1,
+    "id": 4,
     "catégorie":"Électroniques",
     "title": "Vintage Japanese Painting",
     "price": 49.99,
@@ -32,7 +32,7 @@
     "image": "../assets/images/category/electronic/nbg/casque3.jpg"
   },
   {
-    "id": 2,
+    "id": 5,
     "catégorie":"Électroniques",
     "title": "Handmade Ceramic Vase",
     "price": 29.99,
@@ -40,7 +40,7 @@
     "image": "../assets/images/category/electronic/nbg/casque3.jpg"
   },
   {
-    "id": 3,
+    "id": 6,
     "catégorie":"Électroniques",
     "title": "Japanese Calligraphy Brush Set",
     "price": 19.99,
@@ -48,7 +48,7 @@
     "image": "../assets/images/category/electronic/nbg/casque4.jpg"
   },
   {
-    "id": 1,
+    "id": 7,
     "catégorie":"Électroniques",
     "title": "Vintage Japanese Painting",
     "price": 49.99,
@@ -56,7 +56,7 @@
     "image": "../assets/images/category/electronic/nbg/casque3.jpg"
   },
   {
-    "id": 2,
+    "id": 8,
     "catégorie":"Électroniques",
     "title": "Handmade Ceramic Vase",
     "price": 29.99,
@@ -64,7 +64,7 @@
     "image": "../assets/images/category/electronic/nbg/casque3.jpg"
   },
   {
-    "id": 3,
+    "id": 9,
     "catégorie":"Électroniques",
     "title": "Japanese Calligraphy Brush Set",
     "price": 19.99,
@@ -72,7 +72,7 @@
     "image": "../assets/images/category/electronic/nbg/casque4.jpg"
   },
   {
-    "id": 1,
+    "id": 10,
     "catégorie":"Électroniques",
     "title": "Vintage Japanese Painting",
     "price": 49.99,
@@ -80,7 +80,7 @@
     "image": "../assets/images/category/electronic/nbg/casque3.jpg"
   },
   {
-    "id": 2,
+    "id": 11,
     "catégorie":"Électroniques",
     "title": "Handmade Ceramic Vase",
     "price": 29.99,
@@ -88,7 +88,7 @@
     "image": "../assets/images/category/electronic/nbg/casque3.jpg"
   },
   {
-    "id": 3,
+    "id": 12,
     "catégorie":"Électroniques",
     "title": "Japanese Calligraphy Brush Set",
     "price": 19.99,
@@ -96,7 +96,7 @@
     "image": "../assets/images/category/electronic/nbg/casque4.jpg"
   },
   {
-    "id": 1,
+    "id": 13,
     "catégorie":"Électroniques",
     "title": "Vintage Japanese Painting",
     "price": 49.99,
@@ -104,7 +104,7 @@
     "image": "../assets/images/category/electronic/nbg/casque3.jpg"
   },
   {
-    "id": 2,
+    "id": 14,
     "catégorie":"Électroniques",
     "title": "Handmade Ceramic Vase",
     "price": 29.99,
@@ -112,7 +112,7 @@
     "image": "../assets/images/category/electronic/nbg/casque3.jpg"
   },
   {
-    "id": 3,
+    "id": 15,
     "catégorie":"Électroniques",
     "title": "Japanese Calligraphy Brush Set",
     "price": 19.99,
@@ -120,7 +120,7 @@
     "image": "../assets/images/category/electronic/nbg/casque4.jpg"
   },
   {
-    "id": 1,
+    "id": 16,
     "catégorie":"Électroniques",
     "title": "Vintage Japanese Painting",
     "price": 49.99,
@@ -128,7 +128,7 @@
     "image": "../assets/images/category/electronic/nbg/casque3.jpg"
   },
   {
-    "id": 2,
+    "id": 17,
     "catégorie":"Électroniques",
     "title": "Handmade Ceramic Vase",
     "price": 29.99,
@@ -136,7 +136,7 @@
     "image": "../assets/images/category/electronic/nbg/casque3.jpg"
   },
   {
-    "id": 3,
+    "id": 18,
     "catégorie":"Électroniques",
     "title": "Japanese Calligraphy Brush Set",
     "price": 19.99,
@@ -144,7 +144,7 @@
     "image": "../assets/images/category/electronic/nbg/casque4.jpg"
   },
   {
-    "id": 1,
+    "id": 19,
     "catégorie":"Électroniques",
     "title": "Vintage Japanese Painting",
     "price": 49.99,
@@ -152,7 +152,7 @@
     "image": "../assets/images/category/electronic/nbg/casque3.jpg"
   },
   {
-    "id": 2,
+    "id": 20,
     "catégorie":"Électroniques",
     "title": "Handmade Ceramic Vase",
     "price": 29.99,
@@ -160,7 +160,7 @@
     "image": "../assets/images/category/electronic/nbg/casque3.jpg"
   },
   {
-    "id": 3,
+    "id": 21,
     "catégorie":"Électroniques",
     "title": "Japanese Calligraphy Brush Set",
     "price": 19.99,
@@ -168,7 +168,7 @@
     "image": "../assets/images/category/electronic/nbg/casque4.jpg"
   },
   {
-    "id": 1,
+    "id": 22,
     "catégorie":"Électroniques",
     "title": "Vintage Japanese Painting",
     "price": 49.99,
@@ -176,7 +176,7 @@
     "image": "../assets/images/category/electronic/nbg/casque3.jpg"
   },
   {
-    "id": 2,
+    "id": 23,
     "catégorie":"Électroniques",
     "title": "Handmade Ceramic Vase",
     "price": 29.99,
@@ -184,7 +184,7 @@
     "image": "../assets/images/category/electronic/nbg/casque3.jpg"
   },
   {
-    "id": 3,
+    "id": 24,
     "catégorie":"Électroniques",
     "title": "Japanese Calligraphy Brush Set",
     "price": 19.99,
