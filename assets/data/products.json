@@ -152,12 +152,12 @@
     "image": "../assets/images/category/house/Maison/KitchenAid Artisan 5KSM175PSECA.jpg"
   },
   {
-    "id": 17,
+    "id": 20,
     "catégorie":"Maison",
-    "title": "Dyson V15 Detect",
+    "title": " Nespresso Vertuo Plus ",
     "price": 29.99,
-    "description": "Le Dyson V15 Detect est un aspirateur sans fil haut de gamme doté d'une technologie de détection laser qui met en évidence la poussière invisible sur les sols durs. Avec sa puissance d'aspiration de 230 AW.",
-    "image": "../assets/images/category/house/Maison/Dyson V15 Detect.jpg"
+    "description": "La machine à café Nespresso Vertuo Plus utilise la technologie Centrifusion pour préparer des cafés de haute qualité en utilisant des capsules Nespresso. Elle est équipée d'un réservoir d'eau de grande capacité.",
+    "image": "../assets/images/category/house/Maison/Nespresso Vertuo Plus.jpg"
   },
   {
     "id": 17,
