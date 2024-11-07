@@ -238,6 +238,14 @@
     "price": 29.99,
     "description": " Chanel No. 5 est l'un des parfums les plus iconiques du monde. Créé en 1921 par le parfumeur Ernest Beaux, il est connu pour son mélange complexe de notes florales, boisées et musquées. Ce parfum intemporel.",
     "image": "../assets/images/category/fashion/Mode/Chanel No. 5 Eau de Parfum.jpg"
+  },
+  {
+    "id": 31,
+    "catégorie":"Mode",
+    "title": "Alexander McQueen Skull",
+    "price": 29.99,
+    "description": "Alexander McQueen Skull Scarf Ce foulard en soie signé Alexander McQueen allie élégance et esprit rebelle avec ses motifs crânes emblématiques. Accessoire de mode incontournable, il ajoute une touche unique à votre style.",
+    "image": "../assets/images/category/fashion/Mode/Alexander McQueen Skull Scarf.jpg"
   }
   
 ]
