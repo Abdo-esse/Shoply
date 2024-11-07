@@ -247,5 +247,14 @@
     "description": "Alexander McQueen Skull Scarf Ce foulard en soie signé Alexander McQueen allie élégance et esprit rebelle avec ses motifs crânes emblématiques. Accessoire de mode incontournable, il ajoute une touche unique à votre style.",
     "image": "../assets/images/category/fashion/Mode/Alexander McQueen Skull Scarf.jpg"
   }
+  ,
+  {
+    "id": 32,
+    "catégorie":"Mode",
+    "title": "Balenciaga Sneakers",
+    "price": 29.99,
+    "description": "Balenciaga Triple S Sneakers Redéfinissez le streetwear avec les Balenciaga Triple S. Ces baskets oversize, avec leurs couches de semelles et leur allure audacieuse, incarnent le style 'chunky' qui est devenu une icône de la mode contemporaine.",
+    "image": "../assets/images/category/fashion/Mode/Balenciaga Triple S Sneakers.jpg"
+  }
   
 ]
