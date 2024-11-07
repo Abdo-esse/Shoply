@@ -2,25 +2,25 @@
   {
     "id": 1,
     "catégorie":"Électroniques",
-    "title": "Vintage Japanese Painting",
+    "title": "Bose QuietComfort 35 II",
     "price": 49.99,
-    "description": "A beautiful, hand-painted vintage Japanese artwork depicting traditional scenery.",
+    "description": " Offre une meilleure qualité sonore, mais ne coupe pas du bruit extérieur.",
     "image": "../assets/images/category/electronic/nbg/casque1.jpg"
   },
   {
     "id": 2,
     "catégorie":"Électroniques",
-    "title": "Handmade Ceramic Vase",
+    "title": "Razer BlackShark V2",
     "price": 29.99,
-    "description": "Elegant ceramic vase handcrafted by Japanese artisans, perfect for minimalistic decor.",
+    "description": "Spécialement conçu pour les joueurs, souvent équipé d'un microphone intégré.",
     "image": "../assets/images/category/electronic/nbg/casque3.jpg"
   },
   {
     "id": 3,
     "catégorie":"Électroniques",
-    "title": "Japanese Calligraphy Brush Set",
+    "title": "Pioneer HDJ-X10",
     "price": 19.99,
-    "description": "Set of traditional calligraphy brushes, ideal for artists and calligraphy enthusiasts.",
+    "description": "Utilisé par les DJs pour le monitoring et le mixage",
     "image": "../assets/images/category/electronic/nbg/casque4.jpg"
   },
   {
