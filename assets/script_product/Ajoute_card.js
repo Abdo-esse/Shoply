@@ -45,7 +45,5 @@ fetch(jsonFile)
       `;
     }
   }) 
-  .catch(err => console.log(response.json())
-  )
-
+  
 console.log('mohamed');
