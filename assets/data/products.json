@@ -136,12 +136,12 @@
     "image": "../assets/images/category/house/Maison/Dyson V15 Detect.jpg"
   },
   {
-    "id": 17,
+    "id": 18,
     "catégorie":"Maison",
-    "title": "Dyson V15 Detect",
+    "title": "Philips Sonicare",
     "price": 29.99,
-    "description": "Le Dyson V15 Detect est un aspirateur sans fil haut de gamme doté d'une technologie de détection laser qui met en évidence la poussière invisible sur les sols durs. Avec sa puissance d'aspiration de 230 AW.",
-    "image": "../assets/images/category/house/Maison/Dyson V15 Detect.jpg"
+    "description": "La brosse à dents électrique Philips Sonicare DiamondClean 9000 utilise la technologie sonique pour offrir un nettoyage en profondeur avec jusqu'à 10 fois plus d'efficacité qu'une brosse à dents manuelle.",
+    "image": "../assets/images/category/house/Maison/Philips Sonicare DiamondClean 9000.jpg"
   },
   {
     "id": 17,
