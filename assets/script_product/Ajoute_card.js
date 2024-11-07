@@ -1,6 +1,6 @@
 console.log("sdfghjklm");
 
-const jsonFile = "/assets/data/electronique.json";
+const jsonFile = "/assets/data/products.json";
 console.log(jsonFile);
 const add = document.querySelector('#section');
 console.log(add);
