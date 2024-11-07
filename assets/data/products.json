@@ -263,6 +263,14 @@
     "price": 29.99,
     "description": "Fendi Baguette Bag Découvrez le sac qui a marqué les années 90 avec le Fendi Baguette. Compact et élégant, il est conçu pour être porté sous le bras et présente le logo FF signature. Disponible en divers matériaux et couleurs.",
     "image": "../assets/images/category/fashion/Mode/Fendi Baguette Bag.jpg"
+  },
+  {
+    "id": 34,
+    "catégorie":"Mode",
+    "title": "Nike Air Max Plus Tn",
+    "price": 29.99,
+    "description": "Nike Air Max Plus Tn : Les Nike Air Max Plus Tn sont un classique du streetwear, avec leur design futuriste et leur coussin d'air signature. Ces baskets sont parfaites pour ceux qui recherchent style et confort dans leurs tenues quotidiennes.",
+    "image": "../assets/images/category/fashion/Mode/Nike Air Max Plus Tn.png"
   }
   
 ]
