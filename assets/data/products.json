@@ -192,12 +192,12 @@
     "image": "../assets/images/category/house/Maison/Bose SoundLink Revolve+ II.jpg"
   },
   {
-    "id": 17,
+    "id": 25,
     "catégorie":"Maison",
-    "title": "Dyson V15 Detect",
+    "title": "Moccamaster KBGV",
     "price": 29.99,
-    "description": "Le Dyson V15 Detect est un aspirateur sans fil haut de gamme doté d'une technologie de détection laser qui met en évidence la poussière invisible sur les sols durs. Avec sa puissance d'aspiration de 230 AW.",
-    "image": "../assets/images/category/house/Maison/Dyson V15 Detect.jpg"
+    "description": " La cafetière Moccamaster KBGV Select est un modèle haut de gamme réputé pour sa capacité à préparer du café filtre avec une extraction parfaite, grâce à son système de chauffe précis et ses filtres coniques. Elle peut préparer jusqu'à 1,25 litre de café .",
+    "image": "../assets/images/category/house/Maison/Moccamaster KBGV Select.jpg"
   },
   {
     "id": 17,
