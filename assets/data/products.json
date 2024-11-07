@@ -293,7 +293,7 @@
     "catégorie":"Mode",
     "title": "Moncler Maya Jacket",
     "price": 29.99,
-    "description": "Moncler Maya Down Jacket La doudoune Moncler Maya vous garde au chaud tout en restant stylé. Conçue pour résister au froid extrême, elle se distingue par son design épuré et son confort, parfaits pour les amateurs de mode urbaine.",
+    "description": "Moncler Maya Down Jacket La doudoune Moncler Maya vous garde au chaud tout en restant stylé. Conçue pour résister au froid extrême, elle se distingue par son design épuré et son confort, parfaits pour les amateurs.",
     "image": "../assets/images/category/fashion/Mode/Moncler Maya Down Jacket.jpg"
   },
   {
@@ -303,6 +303,14 @@
     "price": 29.99,
     "description": "Ray-Ban Wayfarer Sunglasses Les Ray-Ban Wayfarer sont des lunettes de soleil emblématiques avec leur monture audacieuse. Ce modèle classique s’adapte à tous les styles et est parfait pour une touche de cool intemporel.",
     "image": "../assets/images/category/fashion/Mode/Ray-Ban Wayfarer Sunglasses.jpg"
+  },
+  {
+    "id": 39,
+    "catégorie":"Mode",
+    "title": "Tommy Hilfiger",
+    "price": 29.99,
+    "description": "Tommy Hilfiger Classic Polo Shirt Ce polo intemporel de Tommy Hilfiger est un basique du style casual chic. Avec son logo signature et son confort inégalé, il est parfait pour toute occasion, que ce soit décontractée ou plus habillée.",
+    "image": "../assets/images/category/fashion/Mode/Tommy Hilfiger Classic Polo Shirt.jpg"
   }
   
 ]
