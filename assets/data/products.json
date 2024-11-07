@@ -160,12 +160,12 @@
     "image": "../assets/images/category/house/Maison/Nespresso Vertuo Plus.jpg"
   },
   {
-    "id": 17,
+    "id": 21,
     "catégorie":"Maison",
-    "title": "Dyson V15 Detect",
+    "title": "Le Creuset Cocotte ",
     "price": 29.99,
-    "description": "Le Dyson V15 Detect est un aspirateur sans fil haut de gamme doté d'une technologie de détection laser qui met en évidence la poussière invisible sur les sols durs. Avec sa puissance d'aspiration de 230 AW.",
-    "image": "../assets/images/category/house/Maison/Dyson V15 Detect.jpg"
+    "description": " La cocotte en fonte Le Creuset est un classique de la cuisine. Conçue pour offrir une cuisson uniforme grâce à la répartition homogène de la chaleur, elle est idéale pour des plats mijotés, des ragoûts, ou des soupes.",
+    "image": "../assets/images/category/house/Maison/Le Creuset Cocotte en Fonte.jpg"
   },
   {
     "id": 17,
