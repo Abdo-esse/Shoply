@@ -168,27 +168,27 @@
     "image": "../assets/images/category/house/Maison/Le Creuset Cocotte en Fonte.jpg"
   },
   {
-    "id": 17,
+    "id": 22,
     "catégorie":"Maison",
-    "title": "Dyson V15 Detect",
+    "title": "Roomba i7+",
     "price": 29.99,
-    "description": "Le Dyson V15 Detect est un aspirateur sans fil haut de gamme doté d'une technologie de détection laser qui met en évidence la poussière invisible sur les sols durs. Avec sa puissance d'aspiration de 230 AW.",
-    "image": "../assets/images/category/house/Maison/Dyson V15 Detect.jpg"
+    "description": " Le Roomba i7+ est un robot aspirateur intelligent capable de nettoyer votre maison de manière autonome. Il dispose de la fonction de vidage automatique du bac, vous permettant de le laisser fonctionner.",
+    "image": "../assets/images/category/house/Maison/Roomba i7+.jpg"
+  },
+  {
+    "id": 23,
+    "catégorie":"Maison",
+    "title": "Philips Hue",
+    "price": 29.99,
+    "description": "Le système d'éclairage intelligent Philips Hue permet de personnaliser l'ambiance lumineuse de votre maison avec une gamme infinie de couleurs et de températures de lumière. Vous pouvez contrôler les ampoules .",
+    "image": "../assets/images/category/house/Maison/Philips Hue White and Color Ambiance.jpg"
   },
   {
     "id": 17,
     "catégorie":"Maison",
     "title": "Dyson V15 Detect",
     "price": 29.99,
-    "description": "Le Dyson V15 Detect est un aspirateur sans fil haut de gamme doté d'une technologie de détection laser qui met en évidence la poussière invisible sur les sols durs. Avec sa puissance d'aspiration de 230 AW.",
-    "image": "../assets/images/category/house/Maison/Dyson V15 Detect.jpg"
-  },
-  {
-    "id": 17,
-    "catégorie":"Maison",
-    "title": "Dyson V15 Detect",
-    "price": 29.99,
-    "description": "Le Dyson V15 Detect est un aspirateur sans fil haut de gamme doté d'une technologie de détection laser qui met en évidence la poussière invisible sur les sols durs. Avec sa puissance d'aspiration de 230 AW.",
+    "description": "Le Bose SoundLink Revolve+ II est une enceinte Bluetooth portable offrant un son 360° puissant et clair. Elle est équipée d'une batterie rechargeable offrant jusqu'à 17 heures de lecture continue et peut être utilisée en extérieur grâce à sa résistance à l'eau (IP55).",
     "image": "../assets/images/category/house/Maison/Dyson V15 Detect.jpg"
   },
   {
