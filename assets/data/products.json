@@ -144,12 +144,12 @@
     "image": "../assets/images/category/house/Maison/Philips Sonicare DiamondClean 9000.jpg"
   },
   {
-    "id": 17,
+    "id": 19,
     "catégorie":"Maison",
-    "title": "Dyson V15 Detect",
+    "title": "KitchenAid Artisan",
     "price": 29.99,
-    "description": "Le Dyson V15 Detect est un aspirateur sans fil haut de gamme doté d'une technologie de détection laser qui met en évidence la poussière invisible sur les sols durs. Avec sa puissance d'aspiration de 230 AW.",
-    "image": "../assets/images/category/house/Maison/Dyson V15 Detect.jpg"
+    "description": "Le robot pâtissier KitchenAid Artisan est un incontournable pour les passionnés de cuisine. Il dispose d'un moteur puissant, d'un bol en inox de 4,8 litres et d'un design élégant et intemporel, Il permet de pétrir.",
+    "image": "../assets/images/category/house/Maison/KitchenAid Artisan 5KSM175PSECA.jpg"
   },
   {
     "id": 17,
