@@ -184,12 +184,12 @@
     "image": "../assets/images/category/house/Maison/Philips Hue White and Color Ambiance.jpg"
   },
   {
-    "id": 17,
+    "id": 24,
     "catégorie":"Maison",
-    "title": "Dyson V15 Detect",
+    "title": "Bose SoundLink",
     "price": 29.99,
-    "description": "Le Bose SoundLink Revolve+ II est une enceinte Bluetooth portable offrant un son 360° puissant et clair. Elle est équipée d'une batterie rechargeable offrant jusqu'à 17 heures de lecture continue et peut être utilisée en extérieur grâce à sa résistance à l'eau (IP55).",
-    "image": "../assets/images/category/house/Maison/Dyson V15 Detect.jpg"
+    "description": "Le Bose SoundLink Revolve+ II est une enceinte Bluetooth portable offrant un son 360° puissant et clair. Elle est équipée d'une batterie rechargeable offrant jusqu'à 17 heures de lecture continue .",
+    "image": "../assets/images/category/house/Maison/Bose SoundLink Revolve+ II.jpg"
   },
   {
     "id": 17,
