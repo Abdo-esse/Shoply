@@ -311,6 +311,14 @@
     "price": 29.99,
     "description": "Tommy Hilfiger Classic Polo Shirt Ce polo intemporel de Tommy Hilfiger est un basique du style casual chic. Avec son logo signature et son confort inégalé, il est parfait pour toute occasion, que ce soit décontractée ou plus habillée.",
     "image": "../assets/images/category/fashion/Mode/Tommy Hilfiger Classic Polo Shirt.jpg"
+  },
+  {
+    "id": 40,
+    "catégorie":"Mode",
+    "title": "Off-White",
+    "price": 29.99,
+    "description": "Off-White Industrial Belt Avec son style industriel unique, la ceinture Off-White est l’accessoire parfait pour ajouter une touche d'avant-garde à vos tenues. Inspirée des sangles de transport, elle représente parfaitement.",
+    "image": "../assets/images/category/fashion/Mode/Off-White Industrial Belt.jpg"
   }
   
 ]
