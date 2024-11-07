@@ -2,41 +2,41 @@
   {
     "id": 1,
     "catégorie":"Électroniques",
-    "title": "Bose QuietComfort 35 II",
+    "title": "Apple MacBook Pro",
     "price": 49.99,
-    "description": " Offre une meilleure qualité sonore, mais ne coupe pas du bruit extérieur.",
-    "image": "../assets/images/category/electronic/nbg/casque1.jpg"
+    "description": "Le MacBook Pro avec puce Apple M2 Pro ou M2 Max est une machine puissante conçue pour les professionnels créatifs .",
+    "image": "../assets/images/category/electronic/laptop/Apple MacBook Pro.jpg"
   },
   {
     "id": 2,
     "catégorie":"Électroniques",
-    "title": "Razer BlackShark V2",
+    "title": "Dell XPS 13",
     "price": 29.99,
-    "description": "Spécialement conçu pour les joueurs, souvent équipé d'un microphone intégré.",
-    "image": "../assets/images/category/electronic/nbg/casque3.jpg"
+    "description": " Le Dell XPS 13 est un ultrabook haut de gamme, connu pour sa finition en aluminium et sa dalle InfinityEdge presque sans bords.",
+    "image": "../assets/images/category/electronic/laptop/Dell XPS 13.jpg"
   },
   {
     "id": 3,
     "catégorie":"Électroniques",
-    "title": "Pioneer HDJ-X10",
+    "title": "HP Spectre x360",
     "price": 19.99,
-    "description": "Utilisé par les DJs pour le monitoring et le mixage",
-    "image": "../assets/images/category/electronic/nbg/casque4.jpg"
+    "description": " Le HP Spectre x360 14 est un ultrabook convertible avec un design élégant et un écran OLED ou Full HD de 13,5 pouces. Il peut se transformer en tablette",
+    "image": "../assets/images/category/electronic/laptop/HP Spectre x360 14.jpg"
   },
   {
     "id": 4,
     "catégorie":"Électroniques",
-    "title": "Vintage Japanese Painting",
+    "title": "Asus ROG Strix G15",
     "price": 49.99,
-    "description": "A beautiful, hand-painted vintage Japanese artwork depicting traditional scenery.",
-    "image": "../assets/images/category/electronic/nbg/laptop1.webp"
+    "description": " L’Asus ROG Strix G15 est un ordinateur portable gaming de haute performance, conçu pour les joueurs et les créateurs de contenu. ",
+    "image": "../assets/images/category/electronic/laptop/Asus ROG Strix G15.jpg"
   },
   {
     "id": 5,
     "catégorie":"Électroniques",
     "title": "Omega Speedmaster ",
     "price": 29.99,
-    "description": "Elegant ceramic vase handcrafted by Japanese artisans, perfect for minimalistic decor.",
+    "description": "La Speedmaster est célèbre pour avoir été la première montre portée sur la Lune lors des missions Apollo. Conçue pour la chronométrie et la précision.",
     "image": "../assets/images/category/electronic/watch/Omega Speedmaster Professional.jpg"
   },
   {
@@ -44,7 +44,7 @@
     "catégorie":"Électroniques",
     "title": "Patek Philippe Nautilus",
     "price": 19.99,
-    "description": "Set of traditional calligraphy brushes, ideal for artists and calligraphy enthusiasts.",
+    "description": "Créée par le célèbre designer Gérald Genta en 1976, la Patek Philippe Nautilus est un modèle de montre de luxe sportive avec une forme unique.",
     "image": "../assets/images/category/electronic/watch/Patek Philippe Nautilus.jpg"
   },
   {
@@ -52,7 +52,7 @@
     "catégorie":"Électroniques",
     "title": "Rolex Submariner",
     "price": 49.99,
-    "description": "A beautiful, hand-painted vintage Japanese artwork depicting traditional scenery.",
+    "description": "La Rolex Submariner est l'une des montres les plus emblématiques de la marque Rolex, principalement utilisée comme montre de plongée.",
     "image": "../assets/images/category/electronic/watch/Rolex Submariner.jpg"
   },
   {
@@ -60,40 +60,40 @@
     "catégorie":"Électroniques",
     "title": "Seiko 5",
     "price": 29.99,
-    "description": "Elegant ceramic vase handcrafted by Japanese artisans, perfect for minimalistic decor.",
+    "description": "La Seiko 5 est un modèle emblématique pour les amateurs d'horlogerie abordable et fiable. Avec un mouvement automatique japonais.",
     "image": "../assets/images/category/electronic/watch/Seiko 5.jpg"
   },
   {
     "id": 9,
     "catégorie":"Électroniques",
-    "title": "Japanese Calligraphy Brush Set",
+    "title": "Sony WH-1000XM5",
     "price": 19.99,
-    "description": "Set of traditional calligraphy brushes, ideal for artists and calligraphy enthusiasts.",
-    "image": "../assets/images/category/electronic/nbg/casque4.jpg"
+    "description": "Le Sony WH-1000XM5 est un casque à réduction de bruit de dernière génération, offrant une qualité sonore exceptionnelle et une réduction de bruit active très efficace.",
+    "image": "../assets/images/category/electronic/casque/Sony WH-1000XM5.jpg"
   },
   {
     "id": 10,
     "catégorie":"Électroniques",
-    "title": "Vintage Japanese Painting",
+    "title": "JBL Quantum One",
     "price": 49.99,
-    "description": "A beautiful, hand-painted vintage Japanese artwork depicting traditional scenery.",
-    "image": "../assets/images/category/electronic/nbg/casque3.jpg"
+    "description": "Le JBL Quantum One est un casque gaming avec une qualité sonore surround immersive grâce à la technologie JBL QuantumSPHERE 360.",
+    "image": "../assets/images/category/electronic/casque/JBL Quantum One.jpg"
   },
   {
     "id": 11,
     "catégorie":"Électroniques",
-    "title": "Handmade Ceramic Vase",
+    "title": "AirPods Pro ",
     "price": 29.99,
-    "description": "Elegant ceramic vase handcrafted by Japanese artisans, perfect for minimalistic decor.",
-    "image": "../assets/images/category/electronic/nbg/casque3.jpg"
+    "description": "Les AirPods Pro de deuxième génération offrent une qualité sonore améliorée et une réduction de bruit active (ANC) encore plus efficace .",
+    "image": "../assets/images/category/electronic/casque/Apple AirPods.jpg"
   },
   {
     "id": 12,
     "catégorie":"Électroniques",
-    "title": "Japanese Calligraphy Brush Set",
+    "title": "Sony WF-1000XM5",
     "price": 19.99,
-    "description": "Set of traditional calligraphy brushes, ideal for artists and calligraphy enthusiasts.",
-    "image": "../assets/images/category/electronic/nbg/casque4.jpg"
+    "description": " Les Sony WF-1000XM5 sont des écouteurs sans fil qui offrent une excellente qualité sonore et une réduction de bruit active parmi les meilleures du marché. ",
+    "image": "../assets/images/category/electronic/casque/Sony WH-1000XM5.webp"
   },
   {
     "id": 13,
