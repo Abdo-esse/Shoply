@@ -196,11 +196,11 @@
     "catégorie":"Maison",
     "title": "Moccamaster KBGV",
     "price": 29.99,
-    "description": " La cafetière Moccamaster KBGV Select est un modèle haut de gamme réputé pour sa capacité à préparer du café filtre avec une extraction parfaite, grâce à son système de chauffe précis et ses filtres coniques. Elle peut préparer jusqu'à 1,25 litre de café .",
+    "description": " La cafetière Moccamaster KBGV Select est un modèle haut de gamme réputé pour sa capacité à préparer du café filtre avec une extraction parfaite, grâce à son système de chauffe précis et ses filtres coniques.",
     "image": "../assets/images/category/house/Maison/Moccamaster KBGV Select.jpg"
   },
   {
-    "id": 17,
+    "id": 26,
     "catégorie":"Maison",
     "title": " Smeg 50's Retro",
     "price": 29.99,
@@ -208,20 +208,20 @@
     "image": "../assets/images/category/house/Maison/Smeg 50's Retro Style Fridge.png"
   },
   {
-    "id": 17,
+    "id": 27,
     "catégorie":"Maison",
-    "title": "Dyson V15 Detect",
+    "title": "Braun Multiquick 7",
     "price": 29.99,
-    "description": "Le Dyson V15 Detect est un aspirateur sans fil haut de gamme doté d'une technologie de détection laser qui met en évidence la poussière invisible sur les sols durs. Avec sa puissance d'aspiration de 230 AW.",
-    "image": "../assets/images/category/house/Maison/Dyson V15 Detect.jpg"
+    "description": "Le mixeur plongeant Braun Multiquick 7 MQ7035X est un appareil polyvalent conçu pour faciliter la préparation de soupes, sauces, smoothies et autres recettes. Il dispose d'un moteur puissant, d'un design ergonomique .",
+    "image": "../assets/images/category/house/Maison/Braun Multiquick 7 MQ7035X.jpg"
   },
   {
     "id": 17,
     "catégorie":"Maison",
-    "title": "Dyson V15 Detect",
+    "title": "Vitamix 5200",
     "price": 29.99,
-    "description": "Le Dyson V15 Detect est un aspirateur sans fil haut de gamme doté d'une technologie de détection laser qui met en évidence la poussière invisible sur les sols durs. Avec sa puissance d'aspiration de 230 AW.",
-    "image": "../assets/images/category/house/Maison/Dyson V15 Detect.jpg"
+    "description": "Le blender Vitamix 5200 est un appareil haut de gamme pour la préparation de smoothies, soupes, sauces et même de crèmes glacées. Son moteur puissant et ses lames en acier inoxydable sont capables de mélanger.",
+    "image": "../assets/images/category/house/Maison/Vitamix 5200.jpg"
   }
   
 ]
