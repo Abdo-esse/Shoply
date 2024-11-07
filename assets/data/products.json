@@ -216,12 +216,20 @@
     "image": "../assets/images/category/house/Maison/Braun Multiquick 7 MQ7035X.jpg"
   },
   {
-    "id": 17,
+    "id": 28,
     "catégorie":"Maison",
     "title": "Vitamix 5200",
     "price": 29.99,
     "description": "Le blender Vitamix 5200 est un appareil haut de gamme pour la préparation de smoothies, soupes, sauces et même de crèmes glacées. Son moteur puissant et ses lames en acier inoxydable sont capables de mélanger.",
     "image": "../assets/images/category/house/Maison/Vitamix 5200.jpg"
+  },
+  {
+    "id": 29,
+    "catégorie":"Mode",
+    "title": "Nike Air Force 1",
+    "price": 29.99,
+    "description": "Les Nike Air Force 1 sont des baskets emblématiques, lancées pour la première fois en 1982, devenues un classique dans le monde de la mode streetwear. Elles sont connues pour leur design simple mais élégant.",
+    "image": "../assets/images/category/fashion/Mode/Nike Air Force 1.jpg"
   }
   
 ]
