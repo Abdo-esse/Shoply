@@ -279,6 +279,14 @@
     "price": 29.99,
     "description": "Gucci GG Marmont Matelassé Leather Bag Ce sac Gucci en cuir matelassé, orné du logo GG doré, offre un mélange parfait d'élégance et de modernité. Parfait pour une sortie ou pour sublimer votre look quotidien, il est à la fois fonctionnel et luxueux.",
     "image": "../assets/images/category/fashion/Mode/Gucci GG Marmont Matelassé Leather Bag.jpg"
+  },
+  {
+    "id": 36,
+    "catégorie":"Mode",
+    "title": "Hermès Birkin Bag",
+    "price": 29.99,
+    "description": "Hermès Birkin Bag Véritable symbole de l'élégance et du luxe, le Birkin d'Hermès est un chef-d'œuvre intemporel, fait à la main avec des matériaux de qualité supérieure. Ce sac est le choix parfait pour ceux qui recherchent exclusivité et prestige.",
+    "image": "../assets/images/category/fashion/Mode/Hermès Birkin Bag.jpg"
   }
   
 ]
