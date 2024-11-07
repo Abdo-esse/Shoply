@@ -287,6 +287,14 @@
     "price": 29.99,
     "description": "Hermès Birkin Bag Véritable symbole de l'élégance et du luxe, le Birkin d'Hermès est un chef-d'œuvre intemporel, fait à la main avec des matériaux de qualité supérieure. Ce sac est le choix parfait pour ceux qui recherchent exclusivité et prestige.",
     "image": "../assets/images/category/fashion/Mode/Hermès Birkin Bag.jpg"
+  },
+  {
+    "id": 37,
+    "catégorie":"Mode",
+    "title": "Moncler Maya Jacket",
+    "price": 29.99,
+    "description": "Moncler Maya Down Jacket : La doudoune Moncler Maya vous garde au chaud tout en restant stylé. Conçue pour résister au froid extrême, elle se distingue par son design épuré et son confort, parfaits pour les amateurs de mode urbaine.",
+    "image": "../assets/images/category/fashion/Mode/Moncler Maya Down Jacket.jpg"
   }
   
 ]
