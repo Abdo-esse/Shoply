@@ -1,18 +1,24 @@
 console.log("sdfghjklm");
 
-const jsonFile = "../data/product.json";
-console.log("sdfghjklm");
+const jsonFile = "/assets/data/electronique.json";
+console.log(jsonFile);
 const add = document.querySelector('#section');
+console.log(add);
 
 fetch(jsonFile)
-  .then(response => response.json()) 
+.then(response => {
+   return response.json()
+})  
   .then(data => {
+   console.log(data)
     console.log("mkkk");
+   
     for (let i = 0; i < data.length; i++) {
       const product = data[i]; 
       const { id, title, price, description, image } = product;
       console.log(id, title, price, description, image);
 
+     
       add.innerHTML += `
         <div class="product rounded-2xl p-5 cursor-pointer relative hover:shadow">
           <div class="bg-gray-100 w-10 h-10 flex items-center justify-center rounded-full cursor-pointer absolute top-4 right-4 z-50">
@@ -39,4 +45,7 @@ fetch(jsonFile)
       `;
     }
   }) 
+  .catch(err => console.log(response.json())
+  )
+
 console.log('mohamed');
