@@ -253,8 +253,16 @@
     "catégorie":"Mode",
     "title": "Balenciaga Sneakers",
     "price": 29.99,
-    "description": "Balenciaga Triple S Sneakers Redéfinissez le streetwear avec les Balenciaga Triple S. Ces baskets oversize, avec leurs couches de semelles et leur allure audacieuse, incarnent le style 'chunky' qui est devenu une icône de la mode contemporaine.",
+    "description": "Balenciaga Triple S Sneakers Redéfinissez le streetwear avec les Balenciaga Triple S. Ces baskets oversize, avec leurs couches de semelles et leur allure audacieuse, incarnent le style 'chunky'.",
     "image": "../assets/images/category/fashion/Mode/Balenciaga Triple S Sneakers.jpg"
+  },
+  {
+    "id": 33,
+    "catégorie":"Mode",
+    "title": "Fendi Baguette Bag",
+    "price": 29.99,
+    "description": "Fendi Baguette Bag Découvrez le sac qui a marqué les années 90 avec le Fendi Baguette. Compact et élégant, il est conçu pour être porté sous le bras et présente le logo FF signature. Disponible en divers matériaux et couleurs.",
+    "image": "../assets/images/category/fashion/Mode/Fendi Baguette Bag.jpg"
   }
   
 ]
