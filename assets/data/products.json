@@ -271,6 +271,14 @@
     "price": 29.99,
     "description": "Nike Air Max Plus Tn : Les Nike Air Max Plus Tn sont un classique du streetwear, avec leur design futuriste et leur coussin d'air signature. Ces baskets sont parfaites pour ceux qui recherchent style et confort dans leurs tenues quotidiennes.",
     "image": "../assets/images/category/fashion/Mode/Nike Air Max Plus Tn.png"
+  },
+  {
+    "id": 35,
+    "catégorie":"Mode",
+    "title": "Gucci GG",
+    "price": 29.99,
+    "description": "Gucci GG Marmont Matelassé Leather Bag Ce sac Gucci en cuir matelassé, orné du logo GG doré, offre un mélange parfait d'élégance et de modernité. Parfait pour une sortie ou pour sublimer votre look quotidien, il est à la fois fonctionnel et luxueux.",
+    "image": "../assets/images/category/fashion/Mode/Gucci GG Marmont Matelassé Leather Bag.jpg"
   }
   
 ]
