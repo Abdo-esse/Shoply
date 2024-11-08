@@ -1,0 +1,324 @@
+[
+  {
+    "id": 1,
+    "catégorie":"Électroniques",
+    "title": "Apple MacBook Pro",
+    "price": 49.99,
+    "description": "Le MacBook Pro avec puce Apple M2 Pro ou M2 Max est une machine puissante conçue pour les professionnels créatifs .",
+    "image": "../assets/images/category/electronic/laptop/Apple MacBook Pro.jpg"
+  },
+  {
+    "id": 2,
+    "catégorie":"Électroniques",
+    "title": "Dell XPS 13",
+    "price": 29.99,
+    "description": " Le Dell XPS 13 est un ultrabook haut de gamme, connu pour sa finition en aluminium et sa dalle InfinityEdge presque sans bords.",
+    "image": "../assets/images/category/electronic/laptop/Dell XPS 13.jpg"
+  },
+  {
+    "id": 3,
+    "catégorie":"Électroniques",
+    "title": "HP Spectre x360",
+    "price": 19.99,
+    "description": " Le HP Spectre x360 14 est un ultrabook convertible avec un design élégant et un écran OLED ou Full HD de 13,5 pouces. Il peut se transformer en tablette",
+    "image": "../assets/images/category/electronic/laptop/HP Spectre x360 14.jpg"
+  },
+  {
+    "id": 4,
+    "catégorie":"Électroniques",
+    "title": "Asus ROG Strix G15",
+    "price": 49.99,
+    "description": " L’Asus ROG Strix G15 est un ordinateur portable gaming de haute performance, conçu pour les joueurs et les créateurs de contenu. ",
+    "image": "../assets/images/category/electronic/laptop/Asus ROG Strix G15.jpg"
+  },
+  {
+    "id": 5,
+    "catégorie":"Électroniques",
+    "title": "Omega Speedmaster ",
+    "price": 29.99,
+    "description": "La Speedmaster est célèbre pour avoir été la première montre portée sur la Lune lors des missions Apollo. Conçue pour la chronométrie et la précision.",
+    "image": "../assets/images/category/electronic/watch/Omega Speedmaster Professional.jpg"
+  },
+  {
+    "id": 6,
+    "catégorie":"Électroniques",
+    "title": "Patek Philippe Nautilus",
+    "price": 19.99,
+    "description": "Créée par le célèbre designer Gérald Genta en 1976, la Patek Philippe Nautilus est un modèle de montre de luxe sportive avec une forme unique.",
+    "image": "../assets/images/category/electronic/watch/Patek Philippe Nautilus.jpg"
+  },
+  {
+    "id": 7,
+    "catégorie":"Électroniques",
+    "title": "Rolex Submariner",
+    "price": 49.99,
+    "description": "La Rolex Submariner est l'une des montres les plus emblématiques de la marque Rolex, principalement utilisée comme montre de plongée.",
+    "image": "../assets/images/category/electronic/watch/Rolex Submariner.jpg"
+  },
+  {
+    "id": 8,
+    "catégorie":"Électroniques",
+    "title": "Seiko 5",
+    "price": 29.99,
+    "description": "La Seiko 5 est un modèle emblématique pour les amateurs d'horlogerie abordable et fiable. Avec un mouvement automatique japonais.",
+    "image": "../assets/images/category/electronic/watch/Seiko 5.jpg"
+  },
+  {
+    "id": 9,
+    "catégorie":"Électroniques",
+    "title": "Sony WH-1000XM5",
+    "price": 19.99,
+    "description": "Le Sony WH-1000XM5 est un casque à réduction de bruit de dernière génération, offrant une qualité sonore exceptionnelle et une réduction de bruit active très efficace.",
+    "image": "../assets/images/category/electronic/casque/Sony WH-1000XM5.jpg"
+  },
+  {
+    "id": 10,
+    "catégorie":"Électroniques",
+    "title": "JBL Quantum One",
+    "price": 49.99,
+    "description": "Le JBL Quantum One est un casque gaming avec une qualité sonore surround immersive grâce à la technologie JBL QuantumSPHERE 360.",
+    "image": "../assets/images/category/electronic/casque/JBL Quantum One.jpg"
+  },
+  {
+    "id": 11,
+    "catégorie":"Électroniques",
+    "title": "AirPods Pro ",
+    "price": 29.99,
+    "description": "Les AirPods Pro de deuxième génération offrent une qualité sonore améliorée et une réduction de bruit active (ANC) encore plus efficace .",
+    "image": "../assets/images/category/electronic/casque/Apple AirPods.jpg"
+  },
+  {
+    "id": 12,
+    "catégorie":"Électroniques",
+    "title": "Sony WF-1000XM5",
+    "price": 19.99,
+    "description": " Les Sony WF-1000XM5 sont des écouteurs sans fil qui offrent une excellente qualité sonore et une réduction de bruit active parmi les meilleures du marché. ",
+    "image": "../assets/images/category/electronic/casque/Sony WF-1000XM5.jfif"
+  },
+  {
+    "id": 13,
+    "catégorie":"Électroniques",
+    "title": "Apple iPhone 15 Pro",
+    "price": 49.99,
+    "description": " L'iPhone 15 Pro est le modèle haut de gamme de la série iPhone 15. Il est équipé du puissant processeur A17 Pro, d'un écran OLED Super Retina XDR de 6,1 pouces, et d'une caméra principale de 48 MP avec un capteur amélioré.",
+    "image": "../assets/images/category/electronic/telephon/Apple iPhone 15 Pro.jpg"
+  },
+  {
+    "id": 14,
+    "catégorie":"Électroniques",
+    "title": "Samsung Galaxy S23 Ultra",
+    "price": 29.99,
+    "description": "Le Galaxy S23 Ultra de Samsung est un smartphone Android premium avec un écran Dynamic AMOLED 2X de 6,8 pouces. Il dispose d'un puissant processeur Snapdragon 8 Gen 2.",
+    "image": "../assets/images/category/electronic/telephon/Samsung Galaxy S23 Ultra.jpg"
+  },
+  {
+    "id": 15,
+    "catégorie":"Électroniques",
+    "title": "Google Pixel 8 Pro",
+    "price": 19.99,
+    "description": "Le Pixel 8 Pro est le modèle phare de Google avec un écran LTPO OLED de 6,7 pouces, le processeur Google Tensor G3, et un système de caméras de 50 MP, 48 MP et 48 MP avec des fonctionnalités avancées .",
+    "image": "../assets/images/category/electronic/telephon/Google Pixel 8 Pro.jpg"
+  },
+  {
+    "id": 16,
+    "catégorie":"Électroniques",
+    "title": "Xiaomi 13 Pro",
+    "price": 49.99,
+    "description": "Le Xiaomi 13 Pro est un smartphone haut de gamme équipé d'un écran AMOLED de 6,73 pouces, du processeur Qualcomm Snapdragon 8 Gen 2 et d'une caméra principale Leica de 50 MP. ",
+    "image": "../assets/images/category/electronic/telephon/Xiaomi 13 Pro.jpg"
+  },
+  {
+    "id": 17,
+    "catégorie":"Maison",
+    "title": "Dyson V15 Detect",
+    "price": 29.99,
+    "description": "Le Dyson V15 Detect est un aspirateur sans fil haut de gamme doté d'une technologie de détection laser qui met en évidence la poussière invisible sur les sols durs. Avec sa puissance d'aspiration de 230 AW.",
+    "image": "../assets/images/category/house/Maison/Dyson V15 Detect.jpg"
+  },
+  {
+    "id": 18,
+    "catégorie":"Maison",
+    "title": "Philips Sonicare",
+    "price": 29.99,
+    "description": "La brosse à dents électrique Philips Sonicare DiamondClean 9000 utilise la technologie sonique pour offrir un nettoyage en profondeur avec jusqu'à 10 fois plus d'efficacité qu'une brosse à dents manuelle.",
+    "image": "../assets/images/category/house/Maison/Philips Sonicare DiamondClean 9000.jpg"
+  },
+  {
+    "id": 19,
+    "catégorie":"Maison",
+    "title": "KitchenAid Artisan",
+    "price": 29.99,
+    "description": "Le robot pâtissier KitchenAid Artisan est un incontournable pour les passionnés de cuisine. Il dispose d'un moteur puissant, d'un bol en inox de 4,8 litres et d'un design élégant et intemporel, Il permet de pétrir.",
+    "image": "../assets/images/category/house/Maison/KitchenAid Artisan 5KSM175PSECA.jpg"
+  },
+  {
+    "id": 20,
+    "catégorie":"Maison",
+    "title": " Nespresso Vertuo Plus ",
+    "price": 29.99,
+    "description": "La machine à café Nespresso Vertuo Plus utilise la technologie Centrifusion pour préparer des cafés de haute qualité en utilisant des capsules Nespresso. Elle est équipée d'un réservoir d'eau de grande capacité.",
+    "image": "../assets/images/category/house/Maison/Nespresso Vertuo Plus.jpg"
+  },
+  {
+    "id": 21,
+    "catégorie":"Maison",
+    "title": "Le Creuset Cocotte ",
+    "price": 29.99,
+    "description": " La cocotte en fonte Le Creuset est un classique de la cuisine. Conçue pour offrir une cuisson uniforme grâce à la répartition homogène de la chaleur, elle est idéale pour des plats mijotés, des ragoûts, ou des soupes.",
+    "image": "../assets/images/category/house/Maison/Le Creuset Cocotte en Fonte.jpg"
+  },
+  {
+    "id": 22,
+    "catégorie":"Maison",
+    "title": "Roomba i7+",
+    "price": 29.99,
+    "description": " Le Roomba i7+ est un robot aspirateur intelligent capable de nettoyer votre maison de manière autonome. Il dispose de la fonction de vidage automatique du bac, vous permettant de le laisser fonctionner.",
+    "image": "../assets/images/category/house/Maison/Roomba i7+.jpg"
+  },
+  {
+    "id": 23,
+    "catégorie":"Maison",
+    "title": "Philips Hue",
+    "price": 29.99,
+    "description": "Le système d'éclairage intelligent Philips Hue permet de personnaliser l'ambiance lumineuse de votre maison avec une gamme infinie de couleurs et de températures de lumière. Vous pouvez contrôler les ampoules .",
+    "image": "../assets/images/category/house/Maison/Philips Hue White and Color Ambiance.jpg"
+  },
+  {
+    "id": 24,
+    "catégorie":"Maison",
+    "title": "Bose SoundLink",
+    "price": 29.99,
+    "description": "Le Bose SoundLink Revolve+ II est une enceinte Bluetooth portable offrant un son 360° puissant et clair. Elle est équipée d'une batterie rechargeable offrant jusqu'à 17 heures de lecture continue .",
+    "image": "../assets/images/category/house/Maison/Bose SoundLink Revolve+ II.jpg"
+  },
+  {
+    "id": 25,
+    "catégorie":"Maison",
+    "title": "Moccamaster KBGV",
+    "price": 29.99,
+    "description": " La cafetière Moccamaster KBGV Select est un modèle haut de gamme réputé pour sa capacité à préparer du café filtre avec une extraction parfaite, grâce à son système de chauffe précis et ses filtres coniques.",
+    "image": "../assets/images/category/house/Maison/Moccamaster KBGV Select.jpg"
+  },
+  {
+    "id": 26,
+    "catégorie":"Maison",
+    "title": " Smeg 50's Retro",
+    "price": 29.99,
+    "description": "Le réfrigérateur Smeg au design rétro est un appareil électroménager de haute qualité qui se distingue par son esthétique vintage. Disponible dans plusieurs couleurs vibrantes, il allie style et technologie moderne.",
+    "image": "../assets/images/category/house/Maison/Smeg 50's Retro Style Fridge.png"
+  },
+  {
+    "id": 27,
+    "catégorie":"Maison",
+    "title": "Braun Multiquick 7",
+    "price": 29.99,
+    "description": "Le mixeur plongeant Braun Multiquick 7 MQ7035X est un appareil polyvalent conçu pour faciliter la préparation de soupes, sauces, smoothies et autres recettes. Il dispose d'un moteur puissant, d'un design ergonomique .",
+    "image": "../assets/images/category/house/Maison/Braun Multiquick 7 MQ7035X.jpg"
+  },
+  {
+    "id": 28,
+    "catégorie":"Maison",
+    "title": "Vitamix 5200",
+    "price": 29.99,
+    "description": "Le blender Vitamix 5200 est un appareil haut de gamme pour la préparation de smoothies, soupes, sauces et même de crèmes glacées. Son moteur puissant et ses lames en acier inoxydable sont capables de mélanger.",
+    "image": "../assets/images/category/house/Maison/Vitamix 5200.jpg"
+  },
+  {
+    "id": 29,
+    "catégorie":"Mode",
+    "title": "Nike Air Force 1",
+    "price": 29.99,
+    "description": "Les Nike Air Force 1 sont des baskets emblématiques, lancées pour la première fois en 1982, devenues un classique dans le monde de la mode streetwear. Elles sont connues pour leur design simple mais élégant.",
+    "image": "../assets/images/category/fashion/Mode/Nike Air Force 1.jpg"
+  },
+  {
+    "id": 30,
+    "catégorie":"Mode",
+    "title": "Chanel No. 5",
+    "price": 29.99,
+    "description": " Chanel No. 5 est l'un des parfums les plus iconiques du monde. Créé en 1921 par le parfumeur Ernest Beaux, il est connu pour son mélange complexe de notes florales, boisées et musquées. Ce parfum intemporel.",
+    "image": "../assets/images/category/fashion/Mode/Chanel No. 5 Eau de Parfum.jpg"
+  },
+  {
+    "id": 31,
+    "catégorie":"Mode",
+    "title": "Alexander McQueen Skull",
+    "price": 29.99,
+    "description": "Alexander McQueen Skull Scarf Ce foulard en soie signé Alexander McQueen allie élégance et esprit rebelle avec ses motifs crânes emblématiques. Accessoire de mode incontournable, il ajoute une touche unique à votre style.",
+    "image": "../assets/images/category/fashion/Mode/Alexander McQueen Skull Scarf.jpg"
+  }
+  ,
+  {
+    "id": 32,
+    "catégorie":"Mode",
+    "title": "Balenciaga Sneakers",
+    "price": 29.99,
+    "description": "Balenciaga Triple S Sneakers Redéfinissez le streetwear avec les Balenciaga Triple S. Ces baskets oversize, avec leurs couches de semelles et leur allure audacieuse, incarnent le style 'chunky'.",
+    "image": "../assets/images/category/fashion/Mode/Balenciaga Triple S Sneakers.jpg"
+  },
+  {
+    "id": 33,
+    "catégorie":"Mode",
+    "title": "Fendi Baguette Bag",
+    "price": 29.99,
+    "description": "Fendi Baguette Bag Découvrez le sac qui a marqué les années 90 avec le Fendi Baguette. Compact et élégant, il est conçu pour être porté sous le bras et présente le logo FF signature. Disponible en divers matériaux et couleurs.",
+    "image": "../assets/images/category/fashion/Mode/Fendi Baguette Bag.jpg"
+  },
+  {
+    "id": 34,
+    "catégorie":"Mode",
+    "title": "Nike Air Max Plus Tn",
+    "price": 29.99,
+    "description": "Nike Air Max Plus Tn : Les Nike Air Max Plus Tn sont un classique du streetwear, avec leur design futuriste et leur coussin d'air signature. Ces baskets sont parfaites pour ceux qui recherchent style et confort dans leurs tenues quotidiennes.",
+    "image": "../assets/images/category/fashion/Mode/Nike Air Max Plus Tn.png"
+  },
+  {
+    "id": 35,
+    "catégorie":"Mode",
+    "title": "Gucci GG",
+    "price": 29.99,
+    "description": "Gucci GG Marmont Matelassé Leather Bag Ce sac Gucci en cuir matelassé, orné du logo GG doré, offre un mélange parfait d'élégance et de modernité. Parfait pour une sortie ou pour sublimer votre look quotidien, il est à la fois fonctionnel et luxueux.",
+    "image": "../assets/images/category/fashion/Mode/Gucci GG Marmont Matelassé Leather Bag.jpg"
+  },
+  {
+    "id": 36,
+    "catégorie":"Mode",
+    "title": "Hermès Birkin Bag",
+    "price": 29.99,
+    "description": "Hermès Birkin Bag Véritable symbole de l'élégance et du luxe, le Birkin d'Hermès est un chef-d'œuvre intemporel, fait à la main avec des matériaux de qualité supérieure. Ce sac est le choix parfait pour ceux qui recherchent exclusivité et prestige.",
+    "image": "../assets/images/category/fashion/Mode/Hermès Birkin Bag.jpg"
+  },
+  {
+    "id": 37,
+    "catégorie":"Mode",
+    "title": "Moncler Maya Jacket",
+    "price": 29.99,
+    "description": "Moncler Maya Down Jacket La doudoune Moncler Maya vous garde au chaud tout en restant stylé. Conçue pour résister au froid extrême, elle se distingue par son design épuré et son confort, parfaits pour les amateurs.",
+    "image": "../assets/images/category/fashion/Mode/Moncler Maya Down Jacket.jpg"
+  },
+  {
+    "id": 38,
+    "catégorie":"Mode",
+    "title": "Ray-Ban Wayfarer",
+    "price": 29.99,
+    "description": "Ray-Ban Wayfarer Sunglasses Les Ray-Ban Wayfarer sont des lunettes de soleil emblématiques avec leur monture audacieuse. Ce modèle classique s’adapte à tous les styles et est parfait pour une touche de cool intemporel.",
+    "image": "../assets/images/category/fashion/Mode/Ray-Ban Wayfarer Sunglasses.jpg"
+  },
+  {
+    "id": 39,
+    "catégorie":"Mode",
+    "title": "Tommy Hilfiger",
+    "price": 29.99,
+    "description": "Tommy Hilfiger Classic Polo Shirt Ce polo intemporel de Tommy Hilfiger est un basique du style casual chic. Avec son logo signature et son confort inégalé, il est parfait pour toute occasion, que ce soit décontractée ou plus habillée.",
+    "image": "../assets/images/category/fashion/Mode/Tommy Hilfiger Classic Polo Shirt.jpg"
+  },
+  {
+    "id": 40,
+    "catégorie":"Mode",
+    "title": "Off-White",
+    "price": 29.99,
+    "description": "Off-White Industrial Belt Avec son style industriel unique, la ceinture Off-White est l’accessoire parfait pour ajouter une touche d'avant-garde à vos tenues. Inspirée des sangles de transport, elle représente parfaitement.",
+    "image": "../assets/images/category/fashion/Mode/Off-White Industrial Belt.jpg"
+  }
+  
+]
