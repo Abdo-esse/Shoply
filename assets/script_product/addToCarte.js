@@ -1,12 +1,8 @@
 let IDs= []
 let count = document.querySelector('#count')
 
-
-
-
 function addTOCarte(id,ele) {
- 
-  IDs.push(id)
+   IDs.push(id)
  
   
   // let string = JSON.string(array)
