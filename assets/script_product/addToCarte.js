@@ -1,5 +1,13 @@
-function addTOCarte(id) {
-  console.log(id);
+let IDs= []
+function addTOCarte(IDs) {
+  console.log(IDs);
+  array.push(IDs)
+  console.log(IDs);
+  
+  // let string = JSON.string(array)
+  localStorage.setItem("Cartes qui add", JSON.stringify(IDs));
+
+  
   
     Swal.fire({
       position: "top-end",
@@ -9,3 +17,5 @@ function addTOCarte(id) {
       timer: 1500
     });
   }
+  console.log("sdfghj");
+  
