@@ -1,7 +1,7 @@
 let IDs= []
-function addTOCarte(IDs) {
-  console.log(IDs);
-  array.push(IDs)
+function addTOCarte(id) {
+  console.log(id);
+  IDs.push(id)
   console.log(IDs);
   
   // let string = JSON.string(array)
