@@ -18,7 +18,7 @@ function addTOCarte(id,ele) {
  Swal.fire({
       position: "top-end",
       icon: "success",
-      title: "Your work has been saved",
+      title: "Ce produit est ajouté",
       showConfirmButton: false,
       timer: 1500
     });
