@@ -41,6 +41,7 @@ fetch(jsonFile)
                 <button
                   class="px-4 py-2 transition ease-in duration-200 uppercase rounded-full hover:bg-blue-500 hover:text-white border-2 border-gray-900  hover:border-blue-500 focus:outline-none "
                   onclick="addTOCarte(${id})"
+                  id="button"
                   >Add to cart</button>
               </div>
             </div>
