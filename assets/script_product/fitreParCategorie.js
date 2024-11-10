@@ -2,12 +2,6 @@ function filterParCategorie() {
      var tableauProducts = datas
      var products=tableauProducts.flat()
      console.log(products);
-    products.map((ele)=>{
-      if(catégorie=="Électroniques"){
-        console.log(ele.catégorie)
-      }
-      
-    })
      return tableauProducts;
    }
    
