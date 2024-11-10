@@ -1,13 +1,16 @@
 const jsonFile = "/assets/data/products.json";
 const add = document.querySelector('#section');
+let datas =[] ;
 
 
 fetch(jsonFile)
 .then(response => {
-   return response.json()
+   return response.json()  
 })  
   .then(data => {
-   
+    console.log(data);
+  
+   datas.push(data)
    
     for (let i = 0; i < data.length; i++) {
       const product = data[i]; 
@@ -49,6 +52,8 @@ fetch(jsonFile)
 
         `;
     }
+   
   }) 
   
-console.log('mohamed');
+
+  console.log(datas);
