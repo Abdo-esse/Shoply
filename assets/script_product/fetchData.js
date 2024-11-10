@@ -8,8 +8,9 @@ fetch(jsonFile)
    return response.json()  
 })  
   .then(data => {
+    
     console.log(data);
-  
+   
    datas.push(data)
    
     for (let i = 0; i < data.length; i++) {
@@ -57,3 +58,6 @@ fetch(jsonFile)
   
 
   console.log(datas);
+  const res = datas.flat()
+console.log(res);
+
