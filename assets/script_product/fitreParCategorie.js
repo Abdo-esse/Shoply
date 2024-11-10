@@ -25,5 +25,25 @@ function filterProduitÉlectroniques() {
 
 
 
+function filterProduitMaison() {
+    var products=datas.flat()
+      var catégorieMaison= products.filter((produit,index)=>{
+        if (produit.catégorie == 'Maison') {
+          return produit
+        }
+      })
+      console.log(catégorieMaison);
+      
+     return products;
+   }
+  
+  
+   setTimeout(() => {
+    filterProduitMaison(); 
+    
+   }, 1000);
+
+
+
 
 
