@@ -1,9 +1,12 @@
-function filterParCategorie() {
-     var tableauProducts = datas
-     console.log(tableauProducts);
-     
-     var products=tableauProducts.flat()
-     console.log(products);
+
+
+
+
+
+
+
+function filterProduitÉlectroniques() {
+    var products=datas.flat()
       var catégorieÉlectroniques= products.filter((produit,index)=>{
         if (produit.catégorie == 'Électroniques') {
           return produit
@@ -11,11 +14,16 @@ function filterParCategorie() {
       })
       console.log(catégorieÉlectroniques);
       
-     return tableauProducts;
+     return products;
    }
-   
+  
   
    setTimeout(() => {
-    filterParCategorie(10, 50); 
+    filterProduitÉlectroniques(); 
     
    }, 1000);
+
+
+
+
+
