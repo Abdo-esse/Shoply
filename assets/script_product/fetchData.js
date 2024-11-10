@@ -3,11 +3,9 @@ const add = document.querySelector('#section');
 let datas =[] ;
 
 
-fetch(jsonFile)
-.then(response => {
-   return response.json()  
-})  
-  .then(data => {
+ fetch(jsonFile)
+.then(response => response.json())  
+.then(data => {
     
     
    
