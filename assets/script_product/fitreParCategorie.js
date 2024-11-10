@@ -44,6 +44,26 @@ function filterProduitMaison() {
    }, 1000);
 
 
+   
+function filterProduitMode() {
+    var products=datas.flat()
+      var catégorieMode= products.filter((produit,index)=>{
+        if (produit.catégorie == 'Mode') {
+          return produit
+        }
+      })
+      console.log(catégorieMode);
+      
+     return products;
+   }
+  
+  
+   setTimeout(() => {
+    filterProduitMode(); 
+    
+   }, 1000);
+
+
 
 
 
