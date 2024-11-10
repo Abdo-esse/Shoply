@@ -1,7 +1,17 @@
-console.log(datas);
-
-
-// var data_filter = datas.filter( element => element.catégorie =="Maison")
-// console.log(data_filter)
-const res = datas.flat()
-console.log(res);
+function filterParCategorie() {
+    var filterParCategorie = datas.filter((cat)=>{
+     if (cat.cat) {
+         
+     }
+    })
+ 
+     console.log("Filtered products:", products);
+   
+     return products;
+   }
+   
+   // Appeler la fonction de filtrage après le chargement des données
+   setTimeout(() => {
+     filterProducts(10, 50); // Filtrer les produits entre 10 et 50
+    
+   }, 1000);
