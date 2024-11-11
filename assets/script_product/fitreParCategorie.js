@@ -6,15 +6,15 @@
 // la fonction de filtre priducte en categorie electronique
 
 function filterProduitÉlectroniques() {
-    var products=datas.flat()
-      var catégorieÉlectroniques= products.filter((produit)=>{
+    
+      var catégorieÉlectroniques= datas.filter((produit)=>{
         if (produit.catégorie == 'Électroniques') {
           return produit
         }
       })
       console.log(catégorieÉlectroniques);
       
-     return products;
+     return datas;
    }
 
     
@@ -22,15 +22,15 @@ function filterProduitÉlectroniques() {
 
 // la fonction de filtre priducte en categorie maison
 function filterProduitMaison() {
-    var products=datas.flat()
-      var catégorieMaison= products.filter((produit)=>{
+    
+      var catégorieMaison= datas.filter((produit)=>{
         if (produit.catégorie == 'Maison') {
           return produit
         }
       })
       console.log(catégorieMaison);
       
-     return products;
+     return datas;
    }
   
 
@@ -38,15 +38,15 @@ function filterProduitMaison() {
 
   // la fonction de filtre priducte en categorie mode
 function filterProduitMode() {
-    var products=datas.flat()
-      var catégorieMode= products.filter((produit)=>{
+    
+      var catégorieMode= datas.filter((produit)=>{
         if (produit.catégorie == 'Mode') {
           return produit
         }
       })
       console.log(catégorieMode);
       
-     return products;
+     return datas;
    }
   
   
