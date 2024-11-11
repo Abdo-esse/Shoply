@@ -1,5 +1,5 @@
 const jsonFile = "/assets/data/products.json";
-const add = document.querySelector('#section');
+const section = document.querySelector('#section');
 let datas =[] ;
 
 
@@ -17,7 +17,7 @@ let datas =[] ;
       
 
      
-      add.innerHTML += `
+      section.innerHTML += `
           
           <!-- product 1 -->
           <div class="bg-white rounded-2xl p-5 cursor-pointer relative hover:shadow	">
