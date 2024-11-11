@@ -16,9 +16,7 @@ function filterProduitÉlectroniques() {
       
      return products;
    }
-  
-  
-   setTimeout(() => {
+    setTimeout(() => {
     filterProduitÉlectroniques(); 
     
    }, 1000);
@@ -62,6 +60,8 @@ function filterProduitMode() {
     filterProduitMode(); 
     
    }, 1000);
+
+
 
 
 

@@ -1,7 +1,7 @@
 let IDs= []
 let count = document.querySelector('#count')
 
-function addTOCarte(id,ele) {
+function addTOCarte(id,) {
    IDs.push(id)
  
   
