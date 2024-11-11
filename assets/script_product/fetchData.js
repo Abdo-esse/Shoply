@@ -92,7 +92,7 @@ function displayCategories(products) {
             <h4 class="text-lg text-gray-800 font-bold h-full my-auto">${price}</h4>
             <button
               class="button1 px-4 py-2 transition ease-in duration-200 uppercase rounded-full hover:bg-blue-500 hover:text-white border-2 border-gray-900 hover:border-blue-500 focus:outline-none"
-              onclick="addToCart(${id})"
+              onclick="addTOCarte(${id})"
             >
               Add to cart
             </button>
