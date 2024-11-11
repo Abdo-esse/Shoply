@@ -1,12 +1,8 @@
 let IDs= []
 let count = document.querySelector('#count')
 
-
-
-
-function addTOCarte(id,ele) {
- 
-  IDs.push(id)
+function addTOCarte(id,) {
+   IDs.push(id)
  
   
   // let string = JSON.string(array)
@@ -18,7 +14,7 @@ function addTOCarte(id,ele) {
  Swal.fire({
       position: "top-end",
       icon: "success",
-      title: "Your work has been saved",
+      title: "Ce produit est ajouté",
       showConfirmButton: false,
       timer: 1500
     });
