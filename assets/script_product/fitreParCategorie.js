@@ -16,10 +16,8 @@ function filterProduitÉlectroniques() {
       
      return products;
    }
-    setTimeout(() => {
-    filterProduitÉlectroniques(); 
+
     
-   }, 1000);
 
 
 
@@ -35,11 +33,7 @@ function filterProduitMaison() {
      return products;
    }
   
-  
-   setTimeout(() => {
-    filterProduitMaison(); 
-    
-   }, 1000);
+
 
 
    
@@ -56,14 +50,64 @@ function filterProduitMode() {
    }
   
   
-   setTimeout(() => {
-    filterProduitMode(); 
-    
-   }, 1000);
 
 
+   // console.log(elactroniqueCategoire);
+   // elactroniqueCategoire.addEventListener("change", () =>console.log('nadi'))
+   
+   
+function abdo() {
+  var categoire = document.getElementById('catégorie');
+
+  console.log(categoire.value);
+
+  console.log("--------");
+
+  if ( categoire.value === "elctronique") {
+        console.log("elctronique | nadi");
+
+        setTimeout(() => {
+          filterProduitÉlectroniques(); 
+          
+         }, 1000);
 
 
+      }
+
+  if (categoire.value === "Maison") {
+
+    setTimeout(() => {
+      filterProduitMaison(); 
+      
+     }, 1000);
+
+
+      }
+
+  if (categoire.value === "Mode") {
+
+    setTimeout(() => {
+      filterProduitMode(); 
+      
+     }, 1000);
+
+
+  }
+
+  // for (let i = 0; i < categoire.options.length; i++) {
+  //   if ( categoire.options[i].value === "elctronique") {
+  //     console.log("elctronique | nadi");
+  //   }
+  //   else if (categoire.options[i].text === "Maison") {
+  //     console.log("Maison | nadi");
+  //   }
+  //   else if (categoire.options[i].text === "Mode") {
+  //     console.log("Mode | nadi");
+  //   }
+  // }
+  
+  
+}
 
 
 
