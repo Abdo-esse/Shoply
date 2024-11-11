@@ -8,7 +8,7 @@ function addTOCarte(id,) {
   // let string = JSON.string(array)
   localStorage.setItem("Cartes qui add", JSON.stringify(IDs));
   let nbrProducts =  JSON.parse(localStorage.getItem("Cartes qui add"));
-
+  localStorage
  
   count.textContent = nbrProducts.length;
  Swal.fire({
