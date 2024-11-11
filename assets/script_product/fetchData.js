@@ -10,7 +10,7 @@ let datas =[] ;
     
    
    datas.push(data)
-   
+   section.innerHTML =``
     for (let i = 0; i < data.length; i++) {
       const product = data[i]; 
       const { id, title, price, description, image } = product;

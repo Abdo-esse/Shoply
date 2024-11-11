@@ -62,18 +62,18 @@ function filterProduit() {
 
   console.log("--------");
 
-  if ( categoire.value === "elctronique") {
+  if ( categoire.value === "Électroniques") {
         console.log("elctronique | nadi");
 
         setTimeout(() => {
           filterProduitÉlectroniques(); 
           
-         }, 1000);
+         }, 500);
 
 
       }
 
-  if (categoire.value === "Maison") {
+ else if (categoire.value === "Maison") {
 
     setTimeout(() => {
       filterProduitMaison(); 
@@ -83,7 +83,7 @@ function filterProduit() {
 
       }
 
-  if (categoire.value === "Mode") {
+  else if (categoire.value === "Mode") {
 
     setTimeout(() => {
       filterProduitMode(); 
@@ -92,18 +92,11 @@ function filterProduit() {
 
 
   }
+  else{
+    console.log('rak tm');
+    
+  }
 
-  // for (let i = 0; i < categoire.options.length; i++) {
-  //   if ( categoire.options[i].value === "elctronique") {
-  //     console.log("elctronique | nadi");
-  //   }
-  //   else if (categoire.options[i].text === "Maison") {
-  //     console.log("Maison | nadi");
-  //   }
-  //   else if (categoire.options[i].text === "Mode") {
-  //     console.log("Mode | nadi");
-  //   }
-  // }
   
   
 }
