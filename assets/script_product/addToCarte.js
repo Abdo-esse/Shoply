@@ -1,23 +1,38 @@
-let IDs= []
-let count = document.querySelector('#count')
+let IDs= [];
 
-function addTOCarte(id,) {
-   IDs.push(id)
+if (JSON.parse(localStorage.getItem("Cartes qui add"))) {
+  IDs = JSON.parse(localStorage.getItem("Cartes qui add"));
+}
+
+
+let count = document.querySelector('#count');
+
+
+function addTOCarte(id, elementBtn) {
+
+  
+  elementBtn.disabled = true;
+
+  console.log(elementBtn.id + "clicked");
+
+  IDs.push(id)
  
   
   // let string = JSON.string(array)
   localStorage.setItem("Cartes qui add", JSON.stringify(IDs));
-  let nbrProducts =  JSON.parse(localStorage.getItem("Cartes qui add"));
+
+  IDs =  JSON.parse(localStorage.getItem("Cartes qui add"));
 
  
-  count.textContent = nbrProducts.length;
- Swal.fire({
-      position: "top-end",
-      icon: "success",
-      title: "Ce produit est ajouté",
-      showConfirmButton: false,
-      timer: 1500
-    });
+  count.textContent = IDs.length;
+
+
+
   }
   
+function displayCout() {
+  count.textContent = IDs.length;
+}
+
+displayCout();
   
