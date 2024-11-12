@@ -10,15 +10,14 @@ fetch('/assets/data/products.json')
     datas = data; 
     allCategories(datas); 
   })
-  .catch((error) => console.error('Error fetching products:', error));
+  
 
 
 function allCategories(products) {
   const section = document.getElementById("section");
   section.innerHTML = ''; 
-
-  products.forEach(product => {
-    const { id, title, price, description, image } = product;
+for (let i = 0; i <  products.length; i++) {
+    const { id, title, price, description, image } =  products[i];
 
     section.innerHTML += `
       <div class="bg-white rounded-2xl p-5 cursor-pointer relative hover:shadow">
@@ -47,7 +46,7 @@ function allCategories(products) {
         </div>
       </div>
     `;
-  });
+  }
 }
 
 
