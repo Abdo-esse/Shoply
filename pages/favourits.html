@@ -48,7 +48,7 @@
   <nav x-data="{ isOpen: false }" class="relative bg-white shadow dark:bg-gray-800">
     <div class="container px-6 py-4 mx-auto md:flex md:justify-between md:items-center">
       <div class="flex items-center justify-between">
-        <a href="#" class="text-2xl font-bold text-gray-800 hover:text-blue-600">
+        <a href="../index.html" class="text-2xl font-bold text-gray-800 hover:text-blue-600">
           Shoply
         </a>
 
@@ -94,7 +94,9 @@
                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
             </svg>
 
-            <span class="absolute bottom-2 right-4 text-xs text-white bg-blue-500 rounded-full w-auto p-1 px-2">0</span>
+            <span class="absolute bottom-2 right-4 text-xs text-white bg-blue-500 rounded-full w-auto p-1 px-2"
+            id="count"
+            >0</span>
 
           </a>
         </div>
@@ -123,41 +125,21 @@
   <!-- main --------------------------------- -->
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
     <div class="flex justify-between items-center mb-8">
-      <h1 class="text-2xl font-bold text-gray-900">My Favorites (3)</h1>
-      <button class="text-red-600 hover:text-red-700 font-medium">
-        Delete All
-      </button>
+      <h1 class="text-2xl font-bold text-gray-900">My Favorites </h1>
     </div>
     <!-- products -->
     <div class="font-[sans-serif] bg-gray-100">
       <div class="p-4 mx-auto lg:max-w-7xl sm:max-w-full">
-        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 max-xl:gap-4 gap-6">
-          <!-- product 1 -->
-          <div class="bg-white rounded-2xl p-5 cursor-pointer relative hover:shadow	">
-            <div
-              class="group bg-gray-100 w-10 h-10 flex items-center justify-center rounded-full cursor-pointer absolute top-4 right-4  z-50  hover:bg-red-600">
-              <svg xmlns="http://www.w3.org/2000/svg" width="16px" class="group-hover:fill-white inline-block" viewBox="0 0 64 64">
-                <path
-                  d="M45.5 4A18.53 18.53 0 0 0 32 9.86 18.5 18.5 0 0 0 0 22.5C0 40.92 29.71 59 31 59.71a2 2 0 0 0 2.06 0C34.29 59 64 40.92 64 22.5A18.52 18.52 0 0 0 45.5 4ZM32 55.64C26.83 52.34 4 36.92 4 22.5a14.5 14.5 0 0 1 26.36-8.33 2 2 0 0 0 3.27 0A14.5 14.5 0 0 1 60 22.5c0 14.41-22.83 29.83-28 33.14Z"
-                  data-original="#000000"></path>
-              </svg>
-            </div>
+        <hr class="mb-2">
+        <div id="fav-containe" class="grid grid-cols-1 sm:grid-cols-2     md:grid-cols-3 lg:grid-cols-4 max-xl:gap-4 gap-6">
 
-            <div class="w-5/6 h-[210px] overflow-hidden mx-auto aspect-w-16 aspect-h-8 md:mb-2 mb-4">
-              <img src="../assets/images/category/fashion/nbg/sunglass3.webp" alt="Product 1"
-                class="h-full w-full object-contain" />
-            </div>
-            <div>
-              <h3 class="text-lg font-extrabold text-gray-800">Sole Elegance</h3>
-              <p class="text-gray-600 text-sm mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-              <div class="flex justify-between align-middle mt-4">
-                <h4 class="text-lg text-gray-800 font-bold h-full my-auto">$10</h4>
-                <button
-                  class="px-4 py-2 transition ease-in duration-200 uppercase rounded-full hover:bg-blue-500 hover:text-white border-2 border-gray-900  hover:border-blue-500 focus:outline-none">Add to cart</button>
-              </div>
-            </div>
-            
-          </div>
+          <!-- product here -->
+          
+
+
+
+          
+
 
         </div>
       </div>
@@ -353,6 +335,9 @@
   <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
 
+    <script src="../assets/scripts/favourit.js"></script>
+
+    <script src="../assets/script_product/addToCarte.js"></script>
 </body>
 
 </html>
