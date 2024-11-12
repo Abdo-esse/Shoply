@@ -60,12 +60,15 @@ function getCartItems() {
   let cartHtml = ''; 
   let prdchoisi = [];
   let nbrProducts = JSON.parse(localStorage.getItem("Cartes qui add"));
-  for (let i = 0; i < nbrProducts.length; i++) {
-    if (nbrProducts.length == 0) {
-        document.getElementById("").innerHTML = "Your cart is empty";
-    }
+  if (nbrProducts.length == 0) {
+    document.getElementById("empty").innerHTML = "Your cart is empty";
+}
     else
-  {
+    {
+  for (let i = 0; i < nbrProducts.length; i++) {
+    
+   
+  
     prdchoisi.push(productData.find((product) => product.id == nbrProducts[i]));
     
     cartHtml += `
