@@ -16,9 +16,9 @@ fetch('/assets/data/products.json')
 function allCategories(products) {
   const section = document.getElementById("section");
   section.innerHTML = ''; 
-
-  products.forEach(product => {
-    const { id, title, price, description, image } = product;
+  for (let i = 0; i <  products.length; i++) {
+  // products.forEach(product => {
+    const { id, title, price, description, image } = products[i];
 
     section.innerHTML += `
       <!-- product ${id} -->
@@ -50,7 +50,7 @@ function allCategories(products) {
     `;
 
 
-  });
+  }
 }
 
 // Event listener for filtering categories
