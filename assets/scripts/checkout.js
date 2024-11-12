@@ -23,7 +23,7 @@ function decreaseCount(b,prodId) {
   calculatItemTotal(value, prodId)
 }
 
-
+//last commit
 function calculatItemTotal(value, prodId) {
     let totalHeader= document.getElementById("newtot"+prodId)
     let itemPrice= document.getElementById("itemPrice" + prodId).innerText
@@ -60,12 +60,15 @@ function getCartItems() {
   let cartHtml = ''; 
   let prdchoisi = [];
   let nbrProducts = JSON.parse(localStorage.getItem("Cartes qui add"));
-  for (let i = 0; i < nbrProducts.length; i++) {
-    if (nbrProducts.length == 0) {
-        document.getElementById("").innerHTML = "Your cart is empty";
-    }
+  if (nbrProducts.length == 0) {
+    document.getElementById("empty").innerHTML = "Your cart is empty";
+}
     else
-  {
+    {
+  for (let i = 0; i < nbrProducts.length; i++) {
+    
+   
+  
     prdchoisi.push(productData.find((product) => product.id == nbrProducts[i]));
     
     cartHtml += `
@@ -115,7 +118,7 @@ ajout.innerHTML = cartHtml;
 function handleRemove(id){
  let nbrProducts = JSON.parse(localStorage.getItem("Cartes qui add"));
      
-    const filterdata = nbrProducts.filter((el) => el != id);
+    let filterdata = nbrProducts.filter((el) => el != id);
     localStorage.setItem("Cartes qui add", JSON.stringify(filterdata));   
     getCartItems();
 }
