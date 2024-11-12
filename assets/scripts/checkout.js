@@ -23,7 +23,7 @@ function decreaseCount(b,prodId) {
   calculatItemTotal(value, prodId)
 }
 
-//last commit
+//last commit chang 
 function calculatItemTotal(value, prodId) {
     let totalHeader= document.getElementById("newtot"+prodId)
     let itemPrice= document.getElementById("itemPrice" + prodId).innerText
