@@ -10,7 +10,7 @@ fetch('/assets/data/products.json')
     datas = data; 
     allCategories(datas); 
   })
-  .catch((error) => console.error('Error fetching products:', error));
+  
 
 
 function allCategories(products) {
