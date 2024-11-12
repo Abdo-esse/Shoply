@@ -118,7 +118,7 @@ ajout.innerHTML = cartHtml;
 function handleRemove(id){
  let nbrProducts = JSON.parse(localStorage.getItem("Cartes qui add"));
      
-    const filterdata = nbrProducts.filter((el) => el != id);
+    let filterdata = nbrProducts.filter((el) => el != id);
     localStorage.setItem("Cartes qui add", JSON.stringify(filterdata));   
     getCartItems();
 }
