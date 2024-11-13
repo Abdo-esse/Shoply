@@ -17,7 +17,7 @@ function allCategories(products) {
   const section = document.getElementById("section");
   section.innerHTML = ''; 
   for (let i = 0; i <  products.length; i++) {
-  // products.forEach(product => {
+  
     const { id, title, price, description, image } = products[i];
 
     section.innerHTML += `

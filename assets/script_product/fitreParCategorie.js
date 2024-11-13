@@ -1,5 +1,5 @@
 
-// hgghhghghghghhghg
+
 
 var filtrage = document.getElementById("catégorie");
 filtrage.addEventListener("change", filterByCategory);
