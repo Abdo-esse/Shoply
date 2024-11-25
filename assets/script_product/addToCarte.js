@@ -9,6 +9,7 @@ let count = document.querySelector('#count');
 
 
 function addTOCarte(id, elementBtn) {
+console.log(id);
 
   
   elementBtn.disabled = true;
